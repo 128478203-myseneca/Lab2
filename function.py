@@ -13,3 +13,8 @@ def print_script_and_variables():
 
 # Example usage
 print_script_and_variables()
+
+def helloWorld():
+    print(‘Hello World’)
+
+helloWorld()
